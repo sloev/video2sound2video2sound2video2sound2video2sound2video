@@ -1,10 +1,16 @@
-
+SLOEV WAREZ PRESENTS:
+a dagger in the heart of humanity!
 
 basically it takes a video, or webcam if you modify it a little, and scans it progressively then sends its pixels grey color values over the dac. then the receiver takes audio from the adc and with same buffer size turns it into video again. it works offer speakers and mics as well.
 
 open with pd-extended
 
 check it out at:
+b&w:
 https://vimeo.com/67208033
+forum post:
 http://puredata.hurleur.com/viewtopic.php?pid=37039#p37039
+color video:
 http://www.youtube.com/watch?v=VZOOO4I29Sg
+feedback:
+http://www.youtube.com/watch?v=022Zz-guWrU
