@@ -1,4 +1,4 @@
-#N canvas 319 41 214 159 10;
+#N canvas 302 100 214 159 10;
 #N canvas 338 240 276 178 abstract 1;
 #N canvas 0 22 450 300 gemwin 0;
 #X obj 132 136 gemwin;
@@ -51,8 +51,8 @@
 #X obj 88 64 adc~;
 #X obj 157 85 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
 -1;
-#X obj 33 -2 vsl 15 128 0 10 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 0 1;
+#X obj 25 -5 vsl 15 128 0 10 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 1000 1;
 #X text 50 -10 saturation;
 #X connect 1 0 0 0;
 #X connect 1 1 0 2;

@@ -1,4 +1,4 @@
-#N canvas 14 32 210 217 10;
+#N canvas 29 105 150 163 10;
 #X obj -60 -20 dac~;
 #X obj -59 -52 *~;
 #N canvas 13 282 231 257 abstract 1;
@@ -43,7 +43,7 @@
 1;
 #X obj -58 -100 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 33 -132 vsl 15 128 0 1 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 37 -117 vsl 15 128 0 1 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 12700 1;
 #X obj 10 -33 *~;
 #X text 51 -132 gain;
