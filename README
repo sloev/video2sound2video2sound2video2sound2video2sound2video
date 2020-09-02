@@ -1,4 +1,8 @@
 SLOEV WAREZ PRESENTS:
+
+<a href="https://www.buymeacoffee.com/sloev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-pink.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
+
+
 a dagger in the heart of humanity!
 
 basically it takes a video, or webcam if you modify it a little, and scans it progressively then sends its pixels grey color values over the dac. then the receiver takes audio from the adc and with same buffer size turns it into video again. it works offer speakers and mics as well.
